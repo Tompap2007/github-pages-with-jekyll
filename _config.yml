@@ -1,4 +1,8 @@
-title: MY AWSOME SITE
+---
+title: "MY AWESOME SITE"
+date: 2018-10-24
+---
+
 author: Tompap2007
 email: Tompap2007@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
